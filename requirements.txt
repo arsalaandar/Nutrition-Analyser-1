@@ -1,0 +1,6 @@
+pandas
+fastapi
+streamlit
+pillow
+numpy
+transformer
