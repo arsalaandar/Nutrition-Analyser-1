@@ -1,6 +1,11 @@
-pandas
-fastapi
-streamlit
-pillow
-numpy
-transformers
+python_version < 3.13
+
+streamlit==1.53.1
+fastapi==0.128.0
+pandas==2.2.3
+numpy==1.26.4
+pillow==10.4.0
+
+transformers==4.48.1
+torch==2.2.2
+
