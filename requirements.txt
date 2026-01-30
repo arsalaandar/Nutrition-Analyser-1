@@ -3,4 +3,4 @@ fastapi
 streamlit
 pillow
 numpy
-transformer
+transformers
